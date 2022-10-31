@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 
 
 
-[![MasterHead](https://unsplash.com/photos/FBNxmwEVpAc)]
+<!-- [![MasterHead](https://unsplash.com/photos/FBNxmwEVpAc)] -->
 <h1 align="center">Hii there, I'm Ashish Gulab 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-gulab&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-gulab" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-gulab" alt="ashish-gulab" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashish-gulab" alt="ashish-gulab" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
