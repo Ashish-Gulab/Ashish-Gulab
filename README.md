@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hii there, I'm Ashish Gulab 👋</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60">
+<img align="center" alt="coding" width="400" src="https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjV8fGNvZGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-gulab&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-gulab" /> </p>
 
