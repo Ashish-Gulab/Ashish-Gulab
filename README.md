@@ -1,0 +1,26 @@
+<!-- ### Hi there 👋
+
+
+**Ashish-Gulab/Ashish-Gulab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<h1 align="center"> Hii there, I am Ashish Gulab 👋<h1>
+
+- 🔭 I’m currently working on Website Development
+- 🌱 I’m currently learning <strong>React.js</strong>
+- 💬 Ask me about <strong>HTML CSS JAVASCRIPT C PYTHON JAVA SQL NODE.JS </strong>
+- 📫 How to reach me: <strong>"ashishgulab.gulab@gmail.com</strong>
+<p align="center">
+  <a href="" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.18.0/icons/html5.svg" height="30" width="30"></a>
+</p>
