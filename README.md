@@ -45,7 +45,7 @@ https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-4.0.3&ixid
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [ashishgulab.gulab@gmail.com](ashishgulab.gulab@gmail.com)
+ 👨‍💻 <!-- -All of my projects are available at --> My Email Address is: [ashishgulab.gulab@gmail.com](ashishgulab.gulab@gmail.com)
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT C PYTHON JAVA SQL NODE.JS**
 
