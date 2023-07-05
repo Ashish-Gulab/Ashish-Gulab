@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hii there, I am Ashish Gulab 👋<h1>
 
 - 🔭 I’m currently working on Website Development
-- 🌱 I’m currently learning <strong>React.js</strong>
+- 🌱 I’m currently learning <strong>Redux and Redux Toolkit</strong>
 - 💬 Ask me about <strong>HTML CSS JAVASCRIPT C PYTHON JAVA SQL NODE.JS </strong>
 - 📫 How to reach me: <strong>"ashishgulab.gulab@gmail.com</strong>
 <p align="center">
