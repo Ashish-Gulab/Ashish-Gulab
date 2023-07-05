@@ -43,11 +43,11 @@ https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixlib=rb-4.0.3&ixid
 
 - 🔭 I’m currently working on **Website Development**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Redux and Redux Toolkit**
 
 - 👨‍💻 <!-- -All of my projects are available at --> My Email Address is : [ashishgulab.gulab@gmail.com](ashishgulab.gulab@gmail.com)
 
-- 💬 Ask me about <Strong>Java, React, HTML, CSS, JavaScript,Node.js, Express, MongoDB, MySQL, Data Structures, Database Management System, C Programming, Python and it's libraries</Strong>
+- 💬 Ask me about **Java, React, HTML, CSS, JavaScript,Node.js, Express, MongoDB, MySQL, Data Structures, Database Management System, C Programming, Python and it's libraries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
